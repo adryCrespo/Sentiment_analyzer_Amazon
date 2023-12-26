@@ -1,5 +1,5 @@
 # Sentiment_analyzer_Amazon
-![](https://github.com/adryCrespo/Sentiment_analyzer_Amazon/main/imagen.png)
+![](https://github.com/adryCrespo/Sentiment_analyzer_Amazon/blob/main/imagen.png)
  La idea es un analizar de sentimiento de reseñas de productos de amazon. Este analizador de sentimientos tendrá los posibles valores: positivo, neutral y negativo. El neutral se utiliza porque se entiende que forzar a que un comentario este enmarcado necesariamente en positivo o negativo.  
  Por lo tanto se enmarca en un problema de clasificacion multinomial usando texto como input.
 Además, he vectorizador el texto con un tf-idf vectorizer. Ha dado mejores resultados que simplemente contar el número de términos por documento.
